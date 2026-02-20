@@ -1,0 +1,9 @@
+-----------------------
+        Location
+-----------------------
++ Maxrow : int
++ Maxcolumn : int
++ maxValue : double
+-----------------------
++ Location(row:int, column:int, maxValue:double)
+-----------------------
